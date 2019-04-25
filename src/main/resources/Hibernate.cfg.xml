@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <!-- spring 和 hibernate 整合的时候默认就是使用线程的，下面这一行不用写，写了反而要报错，
+        此外 sessionFaction，不能使用openSession  既不能保存数据到数据库，还不能实现事务功能 -->
+        <!--<prop key="current_session_context_class">thread</prop>-->
+        <!--  数据库方言  -->
+        <property name="dialect">org.hibernate.dialect.MySQL5Dialect</property>
+        <!--  显示sql语句  -->
+        <property name="show_sql">true</property>
+        <!--  格式化sql语句  -->
+        <property name="format_sql">true</property>
+        <!--数据库连接信息
+        <property name="connection.url">jdbc:mysql://localhost:3306/oa</property>
+        <property name="connection.driver_class">com.mysql.jdbc.Driver</property>-->
+
+        <!--映射   -->
+        <mapping class="com.huilong.oa.entity.UserEntity"/>
+        <mapping resource="UserEntity.hbm.xml"/>
+
+
+    </session-factory>
+</hibernate-configuration>

@@ -1,0 +1,449 @@
+2019-04-23 04:17:55 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-23 04:17:56 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 9242 ms
+2019-04-23 04:17:57 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-23 04:17:57 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-23 04:17:57 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-23 04:19:33 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-23 04:19:33 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Tue Apr 23 04:19:33 CST 2019]; root of context hierarchy
+2019-04-23 04:19:33 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-23 04:19:35 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-23 04:19:36 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-23 04:19:36 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-23 04:19:36 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-23 04:19:36 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-23 04:19:39 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-23 04:19:41 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 8560 ms
+2019-04-23 04:19:42 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-23 04:19:42 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-23 04:19:42 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-23 04:20:18 [http-bio-8080-exec-4] ERROR ParametersInterceptor:234 - Developer Notification (set struts.devMode to false to disable this message):
+Unexpected Exception caught setting 'userEntity.id' on 'class com.opensymphony.xwork2.ActionSupport: Error setting expression 'userEntity.id' with value ['15', ]
+2019-04-23 04:20:18 [http-bio-8080-exec-4] ERROR ParametersInterceptor:234 - Developer Notification (set struts.devMode to false to disable this message):
+Unexpected Exception caught setting 'userEntity.name' on 'class com.opensymphony.xwork2.ActionSupport: Error setting expression 'userEntity.name' with value ['li8', ]
+2019-04-23 04:20:39 [http-bio-8080-exec-5] ERROR ParametersInterceptor:234 - Developer Notification (set struts.devMode to false to disable this message):
+Unexpected Exception caught setting 'userEntity.id' on 'class com.opensymphony.xwork2.ActionSupport: Error setting expression 'userEntity.id' with value ['15', ]
+2019-04-23 04:20:39 [http-bio-8080-exec-5] ERROR ParametersInterceptor:234 - Developer Notification (set struts.devMode to false to disable this message):
+Unexpected Exception caught setting 'userEntity.name' on 'class com.opensymphony.xwork2.ActionSupport: Error setting expression 'userEntity.name' with value ['li8', ]
+2019-04-23 04:35:39 [http-bio-8080-exec-9] ERROR ParametersInterceptor:234 - Developer Notification (set struts.devMode to false to disable this message):
+Unexpected Exception caught setting 'userEntity.id' on 'class com.opensymphony.xwork2.ActionSupport: Error setting expression 'userEntity.id' with value ['15', ]
+2019-04-23 04:35:39 [http-bio-8080-exec-9] ERROR ParametersInterceptor:234 - Developer Notification (set struts.devMode to false to disable this message):
+Unexpected Exception caught setting 'userEntity.name' on 'class com.opensymphony.xwork2.ActionSupport: Error setting expression 'userEntity.name' with value ['li8', ]
+2019-04-23 04:43:09 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-23 04:43:09 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Tue Apr 23 04:43:09 CST 2019]; root of context hierarchy
+2019-04-23 04:43:09 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-23 04:43:13 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-23 04:43:14 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-23 04:43:14 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-23 04:43:14 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-23 04:43:15 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-23 04:43:20 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-23 04:43:23 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 14276 ms
+2019-04-23 04:43:24 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-23 04:43:24 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-23 04:43:24 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-23 04:44:09 [http-bio-8080-exec-10] ERROR ParametersInterceptor:234 - Developer Notification (set struts.devMode to false to disable this message):
+Unexpected Exception caught setting 'id' on 'class com.opensymphony.xwork2.ActionSupport: Error setting expression 'id' with value ['15', ]
+2019-04-23 04:44:09 [http-bio-8080-exec-10] ERROR ParametersInterceptor:234 - Developer Notification (set struts.devMode to false to disable this message):
+Unexpected Exception caught setting 'name' on 'class com.opensymphony.xwork2.ActionSupport: Error setting expression 'name' with value ['li8', ]
+2019-04-23 04:48:46 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-23 04:48:46 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Tue Apr 23 04:48:46 CST 2019]; root of context hierarchy
+2019-04-23 04:48:46 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-23 04:48:49 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-23 04:48:51 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-23 04:48:51 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-23 04:48:51 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-23 04:48:51 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-23 04:48:54 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-23 04:48:56 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 10366 ms
+2019-04-23 04:48:56 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-23 04:48:56 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-23 04:48:56 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-23 04:55:56 [http-bio-8080-exec-7] ERROR ParametersInterceptor:234 - Developer Notification (set struts.devMode to false to disable this message):
+Unexpected Exception caught setting 'id' on 'class com.opensymphony.xwork2.ActionSupport: Error setting expression 'id' with value ['15', ]
+2019-04-23 04:55:56 [http-bio-8080-exec-7] ERROR ParametersInterceptor:234 - Developer Notification (set struts.devMode to false to disable this message):
+Unexpected Exception caught setting 'name' on 'class com.opensymphony.xwork2.ActionSupport: Error setting expression 'name' with value ['li8', ]
+2019-04-23 05:01:24 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-23 05:01:24 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Tue Apr 23 05:01:24 CST 2019]; root of context hierarchy
+2019-04-23 05:01:24 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-23 05:01:27 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-23 05:01:29 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-23 05:01:29 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-23 05:01:29 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-23 05:01:30 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-23 05:01:32 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-23 05:01:34 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 9952 ms
+2019-04-23 05:01:34 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-23 05:01:34 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-23 05:01:34 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-23 05:02:06 [http-bio-8080-exec-7] ERROR ParametersInterceptor:234 - Developer Notification (set struts.devMode to false to disable this message):
+Unexpected Exception caught setting 'id' on 'class com.opensymphony.xwork2.ActionSupport: Error setting expression 'id' with value ['15', ]
+2019-04-23 05:02:06 [http-bio-8080-exec-7] ERROR ParametersInterceptor:234 - Developer Notification (set struts.devMode to false to disable this message):
+Unexpected Exception caught setting 'name' on 'class com.opensymphony.xwork2.ActionSupport: Error setting expression 'name' with value ['li8', ]
+2019-04-23 05:05:31 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-23 05:05:31 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Tue Apr 23 05:05:31 CST 2019]; root of context hierarchy
+2019-04-23 05:05:32 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-23 05:05:34 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-23 05:05:36 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-23 05:05:36 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-23 05:05:36 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-23 05:05:36 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-23 05:05:39 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-23 05:05:41 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 9478 ms
+2019-04-23 05:05:41 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-23 05:05:41 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-23 05:05:41 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-23 05:10:13 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-23 05:10:13 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Tue Apr 23 05:10:13 CST 2019]; root of context hierarchy
+2019-04-23 05:10:13 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-23 05:10:16 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-23 05:10:17 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-23 05:10:17 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-23 05:10:17 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-23 05:10:18 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-23 05:10:20 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-23 05:10:22 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 9669 ms
+2019-04-23 05:10:23 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-23 05:10:23 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-23 05:10:23 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-23 10:39:53 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-23 10:39:53 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Tue Apr 23 10:39:53 CST 2019]; root of context hierarchy
+2019-04-23 10:39:54 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-23 10:39:56 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-23 10:39:58 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-23 10:39:58 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-23 10:39:58 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-23 10:39:58 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-23 10:40:01 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-23 10:40:03 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 9387 ms
+2019-04-23 10:40:03 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-23 10:40:03 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-23 10:40:03 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-23 10:48:43 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-23 10:48:43 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Tue Apr 23 10:48:43 CST 2019]; root of context hierarchy
+2019-04-23 10:48:43 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-23 10:48:45 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-23 10:48:47 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-23 10:48:47 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-23 10:48:47 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-23 10:48:48 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-23 10:48:50 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-23 10:48:52 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 8841 ms
+2019-04-23 10:48:52 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-23 10:48:52 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-23 10:48:52 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-23 11:01:37 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-23 11:01:38 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Tue Apr 23 11:01:38 CST 2019]; root of context hierarchy
+2019-04-23 11:01:38 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-23 11:01:40 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-23 11:01:41 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-23 11:01:41 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-23 11:01:41 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-23 11:01:41 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-23 11:01:43 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-23 11:01:47 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 9273 ms
+2019-04-23 11:01:47 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-23 11:01:47 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-23 11:01:47 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-23 11:19:47 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-23 11:19:47 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Tue Apr 23 11:19:47 CST 2019]; root of context hierarchy
+2019-04-23 11:19:47 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-23 11:19:49 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-23 11:19:51 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-23 11:19:51 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-23 11:19:51 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-23 11:19:51 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-23 11:19:53 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-23 11:19:55 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 7276 ms
+2019-04-23 11:19:55 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-23 11:19:55 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-23 11:19:55 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-23 11:21:40 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-23 11:21:40 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Tue Apr 23 11:21:40 CST 2019]; root of context hierarchy
+2019-04-23 11:21:40 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-23 11:21:42 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-23 11:21:43 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-23 11:21:43 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-23 11:21:43 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-23 11:21:43 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-23 11:21:44 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-23 11:21:45 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 4986 ms
+2019-04-23 11:21:45 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-23 11:21:45 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-23 11:21:45 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-23 11:35:56 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-23 11:35:56 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Tue Apr 23 11:35:56 CST 2019]; root of context hierarchy
+2019-04-23 11:35:56 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-23 11:35:58 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-23 11:35:59 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-23 11:35:59 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-23 11:35:59 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-23 11:35:59 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-23 11:36:01 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-23 11:36:02 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 5728 ms
+2019-04-23 11:36:02 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-23 11:36:02 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-23 11:36:02 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-23 11:45:41 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-23 11:45:41 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Tue Apr 23 11:45:41 CST 2019]; root of context hierarchy
+2019-04-23 11:45:41 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-23 11:45:43 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-23 11:45:45 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-23 11:45:45 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-23 11:45:45 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-23 11:45:46 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-23 11:45:48 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-23 11:45:50 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 9057 ms
+2019-04-23 11:45:51 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-23 11:45:51 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-23 11:45:51 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-23 11:54:13 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-23 11:54:13 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Tue Apr 23 11:54:13 CST 2019]; root of context hierarchy
+2019-04-23 11:54:13 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-23 11:54:15 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-23 11:54:16 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-23 11:54:16 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-23 11:54:16 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-23 11:54:17 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-23 11:54:19 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-23 11:54:20 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 7407 ms
+2019-04-23 11:54:21 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-23 11:54:21 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-23 11:54:21 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-23 11:56:53 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-23 11:56:53 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Tue Apr 23 11:56:53 CST 2019]; root of context hierarchy
+2019-04-23 11:56:53 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-23 11:56:54 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-23 11:56:56 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-23 11:56:56 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-23 11:56:56 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-23 11:56:56 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-23 11:56:58 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-23 11:56:59 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 6688 ms
+2019-04-23 11:57:00 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-23 11:57:00 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-23 11:57:00 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-23 12:16:58 [main] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-23 12:16:58 [main] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Tue Apr 23 12:16:58 CST 2019]; root of context hierarchy
+2019-04-23 12:16:58 [main] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-23 12:17:02 [main] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-23 12:17:03 [main] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-23 12:17:03 [main] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-23 12:17:03 [main] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-23 12:17:03 [main] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-23 12:17:05 [main] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-23 12:17:06 [main] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 7773 ms
+2019-04-23 12:17:06 [main] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-23 12:17:06 [main] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-23 12:17:06 [main] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-23 12:21:43 [main] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-23 12:21:43 [main] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Tue Apr 23 12:21:43 CST 2019]; root of context hierarchy
+2019-04-23 12:21:43 [main] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-23 12:21:47 [main] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-23 12:21:48 [main] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-23 12:21:48 [main] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-23 12:21:48 [main] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-23 12:21:48 [main] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-23 12:21:50 [main] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-23 12:21:51 [main] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 7578 ms
+2019-04-23 12:21:51 [main] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-23 12:21:51 [main] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-23 12:21:51 [main] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-25 11:39:13 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-25 11:39:13 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Thu Apr 25 11:39:13 CST 2019]; root of context hierarchy
+2019-04-25 11:39:13 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-25 11:39:16 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-25 11:39:17 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-25 11:39:17 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-25 11:39:17 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-25 11:39:18 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-25 11:40:53 [localhost-startStop-1] WARN  JdbcEnvironmentInitiator:132 - HHH000342: Could not obtain connection to query metadata : Connections could not be acquired from the underlying database!
+2019-04-25 11:40:53 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-25 11:40:53 [localhost-startStop-1] INFO  LobCreatorBuilderImpl:63 - HHH000422: Disabling contextual LOB creation as connection was null
+2019-04-25 11:40:56 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 103004 ms
+2019-04-25 11:40:56 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-25 11:40:56 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-25 11:40:56 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-25 11:57:02 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-25 11:57:02 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Thu Apr 25 11:57:02 CST 2019]; root of context hierarchy
+2019-04-25 11:57:02 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-25 11:57:05 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-25 11:57:06 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-25 11:57:06 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-25 11:57:06 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-25 11:57:06 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-25 11:57:08 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-25 11:57:09 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 7060 ms
+2019-04-25 11:57:09 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-25 11:57:09 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-25 11:57:09 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-25 12:14:23 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-25 12:14:23 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Thu Apr 25 12:14:23 CST 2019]; root of context hierarchy
+2019-04-25 12:14:23 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-25 12:14:26 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-25 12:14:28 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-25 12:14:28 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-25 12:14:28 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-25 12:14:28 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-25 12:14:59 [localhost-startStop-1] WARN  JdbcEnvironmentInitiator:132 - HHH000342: Could not obtain connection to query metadata : Connections could not be acquired from the underlying database!
+2019-04-25 12:15:00 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-25 12:15:00 [localhost-startStop-1] INFO  LobCreatorBuilderImpl:63 - HHH000422: Disabling contextual LOB creation as connection was null
+2019-04-25 12:15:01 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 38603 ms
+2019-04-25 12:15:02 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-25 12:15:02 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-25 12:15:02 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-25 12:21:31 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-25 12:21:31 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Thu Apr 25 12:21:31 CST 2019]; root of context hierarchy
+2019-04-25 12:21:31 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-25 12:21:33 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-25 12:21:35 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-25 12:21:35 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-25 12:21:35 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-25 12:21:35 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-25 12:21:38 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-25 12:21:40 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 8732 ms
+2019-04-25 12:21:40 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-25 12:21:40 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-25 12:21:40 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-25 12:24:57 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-25 12:24:57 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Thu Apr 25 12:24:57 CST 2019]; root of context hierarchy
+2019-04-25 12:24:57 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-25 12:25:00 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-25 12:25:01 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-25 12:25:01 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-25 12:25:01 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-25 12:25:02 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-25 12:25:04 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-25 12:25:05 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 7464 ms
+2019-04-25 12:25:05 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-25 12:25:05 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-25 12:25:05 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-25 12:37:24 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-25 12:37:24 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Thu Apr 25 12:37:24 CST 2019]; root of context hierarchy
+2019-04-25 12:37:24 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-25 12:37:27 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-25 12:37:28 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-25 12:37:28 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-25 12:37:28 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-25 12:37:28 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-25 12:37:29 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-25 12:37:30 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 6739 ms
+2019-04-25 12:37:31 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-25 12:37:31 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-25 12:37:31 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-25 12:41:13 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-25 12:41:14 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Thu Apr 25 12:41:14 CST 2019]; root of context hierarchy
+2019-04-25 12:41:14 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-25 12:41:16 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-25 12:41:18 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-25 12:41:18 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-25 12:41:18 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-25 12:41:18 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-25 12:41:20 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-25 12:41:22 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 8349 ms
+2019-04-25 12:41:22 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-25 12:41:22 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-25 12:41:22 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-25 12:42:48 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-25 12:42:48 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Thu Apr 25 12:42:48 CST 2019]; root of context hierarchy
+2019-04-25 12:42:48 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-25 12:42:51 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-25 12:42:52 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-25 12:42:52 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-25 12:42:52 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-25 12:42:52 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-25 12:42:54 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-25 12:42:55 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 7154 ms
+2019-04-25 12:42:56 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-25 12:42:56 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-25 12:42:56 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-25 12:45:29 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-25 12:45:29 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Thu Apr 25 12:45:29 CST 2019]; root of context hierarchy
+2019-04-25 12:45:29 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-25 12:45:32 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-25 12:45:33 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-25 12:45:33 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-25 12:45:33 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-25 12:45:34 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-25 12:45:36 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-25 12:45:37 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 8052 ms
+2019-04-25 12:45:38 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-25 12:45:38 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-25 12:45:38 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-25 12:45:49 [http-bio-8080-exec-5] WARN  DefaultActionMapper:406 - user_* did not match allowed action names [a-zA-Z0-9._!/\-]* - default action index will be used!
+2019-04-25 12:45:49 [http-bio-8080-exec-5] WARN  Dispatcher:611 - Could not find action or result: /OA/user_*.action
+com.opensymphony.xwork2.config.ConfigurationException: There is no Action mapped for namespace [/] and action name [index] associated with context path [/OA].
+	at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:195) ~[struts2-core-2.5.14.1.jar:2.5.14.1]
+	at org.apache.struts2.factory.StrutsActionProxy.prepare(StrutsActionProxy.java:57) ~[struts2-core-2.5.14.1.jar:2.5.14.1]
+	at org.apache.struts2.factory.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:32) ~[struts2-core-2.5.14.1.jar:2.5.14.1]
+	at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:60) ~[struts2-core-2.5.14.1.jar:2.5.14.1]
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:564) [struts2-core-2.5.14.1.jar:2.5.14.1]
+	at org.apache.struts2.dispatcher.ExecuteOperations.executeAction(ExecuteOperations.java:79) [struts2-core-2.5.14.1.jar:2.5.14.1]
+	at org.apache.struts2.dispatcher.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:141) [struts2-core-2.5.14.1.jar:2.5.14.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:953) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:603) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_51]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+2019-04-25 12:52:55 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-25 12:52:55 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Thu Apr 25 12:52:55 CST 2019]; root of context hierarchy
+2019-04-25 12:52:55 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-25 12:52:58 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-25 12:52:59 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-25 12:52:59 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-25 12:52:59 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-25 12:52:59 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-25 12:53:01 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-25 12:53:02 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 6433 ms
+2019-04-25 12:53:02 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-25 12:53:02 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-25 12:53:02 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
+2019-04-25 12:53:35 [http-bio-8080-exec-5] WARN  DefaultActionMapper:406 - user_* did not match allowed action names [a-zA-Z0-9._!/\-]* - default action index will be used!
+2019-04-25 12:53:35 [http-bio-8080-exec-5] WARN  Dispatcher:611 - Could not find action or result: /OA/user_*.action
+com.opensymphony.xwork2.config.ConfigurationException: There is no Action mapped for namespace [/] and action name [index] associated with context path [/OA].
+	at com.opensymphony.xwork2.DefaultActionProxy.prepare(DefaultActionProxy.java:195) ~[struts2-core-2.5.14.1.jar:2.5.14.1]
+	at org.apache.struts2.factory.StrutsActionProxy.prepare(StrutsActionProxy.java:57) ~[struts2-core-2.5.14.1.jar:2.5.14.1]
+	at org.apache.struts2.factory.StrutsActionProxyFactory.createActionProxy(StrutsActionProxyFactory.java:32) ~[struts2-core-2.5.14.1.jar:2.5.14.1]
+	at com.opensymphony.xwork2.DefaultActionProxyFactory.createActionProxy(DefaultActionProxyFactory.java:60) ~[struts2-core-2.5.14.1.jar:2.5.14.1]
+	at org.apache.struts2.dispatcher.Dispatcher.serviceAction(Dispatcher.java:564) [struts2-core-2.5.14.1.jar:2.5.14.1]
+	at org.apache.struts2.dispatcher.ExecuteOperations.executeAction(ExecuteOperations.java:79) [struts2-core-2.5.14.1.jar:2.5.14.1]
+	at org.apache.struts2.dispatcher.filter.StrutsPrepareAndExecuteFilter.doFilter(StrutsPrepareAndExecuteFilter.java:141) [struts2-core-2.5.14.1.jar:2.5.14.1]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:953) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:603) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310) [tomcat-embed-core-7.0.47.jar:7.0.47]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142) [?:1.8.0_51]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617) [?:1.8.0_51]
+	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_51]
+2019-04-25 14:07:10 [localhost-startStop-1] INFO  ContextLoader:270 - Root WebApplicationContext: initialization started
+2019-04-25 14:07:10 [localhost-startStop-1] INFO  XmlWebApplicationContext:590 - Refreshing Root WebApplicationContext: startup date [Thu Apr 25 14:07:10 CST 2019]; root of context hierarchy
+2019-04-25 14:07:10 [localhost-startStop-1] INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2019-04-25 14:07:13 [localhost-startStop-1] INFO  AutowiredAnnotationBeanPostProcessor:154 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-04-25 14:07:15 [localhost-startStop-1] INFO  Version:37 - HHH000412: Hibernate Core {5.1.10.Final}
+2019-04-25 14:07:16 [localhost-startStop-1] INFO  Environment:213 - HHH000206: hibernate.properties not found
+2019-04-25 14:07:16 [localhost-startStop-1] INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2019-04-25 14:07:16 [localhost-startStop-1] INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-04-25 14:07:19 [localhost-startStop-1] INFO  Dialect:156 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2019-04-25 14:07:21 [localhost-startStop-1] INFO  ContextLoader:310 - Root WebApplicationContext: initialization completed in 10230 ms
+2019-04-25 14:07:21 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:73 - Initializing Struts-Spring integration...
+2019-04-25 14:07:21 [localhost-startStop-1] INFO  SpringObjectFactory:104 - Setting autowire strategy to name
+2019-04-25 14:07:21 [localhost-startStop-1] INFO  StrutsSpringObjectFactory:139 - ... initialized Struts-Spring integration successfully
